@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Loop-Podcasts",
+    "description": "An extension to loop podcasts as you would for songs.",
+    "main": "podcast-loop/dist/podcast-loop.js",
+    "preview": "img.png",
+    "readme": "README.md",
+    "authors": [
+      {"name": "Lightning", "url": "https://github.com/lightingik"}
+    ],
+    "tags": "podcasts"
+  }
+]
